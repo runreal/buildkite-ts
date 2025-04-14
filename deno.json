@@ -1,6 +1,6 @@
 {
 	"name": "@runreal/buildkite-ts",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"license": "MIT",
 	"fmt": {
 		"include": [
@@ -29,6 +29,8 @@
 		"./buildkite-schema": "./src/buildkite-schema.json"
 	},
 	"publish": {
-		"include": ["src"]
+		"include": [
+			"src"
+		]
 	}
 }
