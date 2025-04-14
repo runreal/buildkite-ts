@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/runreal/buildkite-ts/compare/v1.0.0...v1.0.1) (2025-04-14)
+
+
+### Bug Fixes
+
+* release script +x ([0c1ccb2](https://github.com/runreal/buildkite-ts/commit/0c1ccb22c5d7a84a96d77e3e8db6060b0708bdce))
+
 ## 1.0.0 (2025-04-14)
 
 
