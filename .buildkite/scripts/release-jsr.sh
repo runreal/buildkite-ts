@@ -26,4 +26,4 @@ JSR_TOKEN=$(buildkite-agent secret get "JSR_TOKEN")
 
 # Publish to JSR
 echo "Publishing version $CURRENT_VERSION to JSR..."
-deno publish --token $JSR_TOKEN --dry-run
+deno publish --token $JSR_TOKEN
