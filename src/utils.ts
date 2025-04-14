@@ -7,7 +7,7 @@ await configure({
 	loggers: [
 		{
 			category: 'buildkite-ts',
-			lowestLevel: 'debug',
+			lowestLevel: 'info',
 			sinks: ['console'],
 		},
 		{
