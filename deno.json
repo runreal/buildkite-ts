@@ -1,5 +1,6 @@
 {
 	"name": "@runreal/buildkite-ts",
+	"description": "Buildkite Pipeline Generator",
 	"version": "1.0.1",
 	"license": "MIT",
 	"fmt": {
@@ -30,6 +31,7 @@
 	},
 	"publish": {
 		"include": [
+			"README.md",
 			"src"
 		]
 	}
