@@ -20,7 +20,7 @@ export async function generatePipeline(
 		const outputFileName = filename || `${pipelineName}.pipeline.json`
 		const pipelineFileName = `${pipelineName}${fileExtension}`
 		const pipelineFile = join(baseDir, fileType === 'steps' ? 'steps' : 'pipelines', pipelineFileName)
-		const configPath = join(baseDir, 'config.ts')
+		const configPath = join(baseDir, 'pipeline-config.ts')
 
 		logger.debug(`[${pipelineName}] Resolved base directory: ${baseDir}`)
 		logger.debug(`[${pipelineName}] Looking for pipeline file: ${pipelineFile}`)
