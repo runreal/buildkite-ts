@@ -1,5 +1,5 @@
-import { BasePipeline } from '../src/base-pipeline.ts'
-import type { CommandStep } from '../src/buildkite-interface.ts'
+import { BasePipeline } from '../../src/base-pipeline.ts'
+import type { CommandStep } from '../../src/buildkite-interface.ts'
 
 export class ExamplePipeline extends BasePipeline {
 	constructor() {
