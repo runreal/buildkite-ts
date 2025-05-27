@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/runreal/buildkite-ts/compare/v1.0.1...v1.1.0) (2025-05-27)
+
+
+### Features
+
+* update base dir option, add generate-steps alias ([fe5dc7d](https://github.com/runreal/buildkite-ts/commit/fe5dc7de024fb3b18e5ddc8408eb69586a9f9427))
+
+
+### Bug Fixes
+
+* default log level ([54c63b9](https://github.com/runreal/buildkite-ts/commit/54c63b9650550641bd9f575af610ba3c1e155b47))
+
 ## [1.0.1](https://github.com/runreal/buildkite-ts/compare/v1.0.0...v1.0.1) (2025-04-14)
 
 
