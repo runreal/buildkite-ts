@@ -1,4 +1,4 @@
-import type { PipelineConfigInterface } from '../../src/pipeline-config.ts'
+import type { PipelineConfigInterface } from '../src/pipeline-config.ts'
 
 export const config: PipelineConfigInterface = {
 	env: {},
