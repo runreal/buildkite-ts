@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/runreal/buildkite-ts/compare/v1.1.0...v1.1.1) (2025-05-27)
+
+
+### Bug Fixes
+
+* update ci config ([7df8bba](https://github.com/runreal/buildkite-ts/commit/7df8bba68955d606e4bebfcb487e44c986b1f1ef))
+
 ## [1.1.0](https://github.com/runreal/buildkite-ts/compare/v1.0.1...v1.1.0) (2025-05-27)
 
 
