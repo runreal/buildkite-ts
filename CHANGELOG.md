@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/runreal/buildkite-ts/compare/v1.1.1...v1.1.2) (2025-05-27)
+
+
+### Bug Fixes
+
+* rename config file ([d7badf4](https://github.com/runreal/buildkite-ts/commit/d7badf4b9a15a87d1e2e8a91d30d16deac27965b))
+
 ## [1.1.1](https://github.com/runreal/buildkite-ts/compare/v1.1.0...v1.1.1) (2025-05-27)
 
 
